@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rassel25?tab=repositories](https://github.com/rassel25?tab=repositories)
 
-- 📫 How to reach me **lincolnrassel40@gmail.com**
+- 📫 How to reach me **mdgolamrassel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
