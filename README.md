@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Golam Rassel Lincoln</h1>
-<h3 align="center">Being a Python Programmer, I'm Data Science and Machine Learning addicted. Doing Master of Science (M.Sc) in Mechatronics at University of Siegen.</h3>
+<h3 align="center">Being a Python Programmer, I'm Data Science and Machine Learning addicted. Doing Master of Science (M.Sc) in Mechatronics Engineering Specializing in AI and Data Analytics.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/rassel25?tab=repositories](https://github.com/rassel25?tab=repositories)
 
