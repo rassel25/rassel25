@@ -11,7 +11,6 @@ I'm a passionate Data Engineer specializing in designing and building robust, sc
 - 🔭 Currently working on **end-to-end Azure and Microsoft Fabric data engineering projects**
 - 🌱 Learning **Microsoft Fabric, Delta Lake, and advanced Spark optimization**
 - 💼 Focused on **Medallion Architecture, Data Lakehouse, and Real-time Streaming with Azure**
-- 📫 Reach me at: **[your.email@example.com](mailto:your.email@example.com)**
 - 💬 Ask me about **Azure, Microsoft Fabric, Databricks, PySpark, SQL Server, and Power BI**
 
 ---
@@ -57,8 +56,8 @@ I'm a passionate Data Engineer specializing in designing and building robust, sc
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mdgolamrassellincoln/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mdgolamrassel@gmail.com)
 
 ---
 
