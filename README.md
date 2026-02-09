@@ -56,8 +56,8 @@ I'm a passionate Data Engineer specializing in designing and building robust, sc
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mdgolamrassellincoln/)](https://www.linkedin.com/in/mdgolamrassellincoln/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mdgolamrassel@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdgolamrassellincoln/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdgolamrassel@gmail.com)
 
 ---
 
@@ -76,8 +76,6 @@ I'm a passionate Data Engineer specializing in designing and building robust, sc
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views)
 
 **⭐ If you find my projects interesting, feel free to star them!**
 
