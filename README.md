@@ -56,7 +56,7 @@ I'm a passionate Data Engineer specializing in designing and building robust, sc
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mdgolamrassellincoln/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mdgolamrassellincoln/)](https://www.linkedin.com/in/mdgolamrassellincoln/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mdgolamrassel@gmail.com)
 
 ---
