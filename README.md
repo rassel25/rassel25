@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Md Golam Rassel Lincoln</h1>
-# Hi there, I'm [Your Name] 👋
 
 ### Data Engineer | Cloud Enthusiast | Building Scalable Data Solutions
 
@@ -9,53 +8,44 @@ I'm a passionate Data Engineer specializing in designing and building robust, sc
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **end-to-end Azure data engineering projects**
-- 🌱 Learning **Delta Lake, Unity Catalog, and advanced Spark optimization**
-- 💼 Focused on **Medallion Architecture, Data Lakehouse, and Real-time Streaming**
-- 🎯 2025 Goals: Master **Databricks certification** and contribute to **open-source data tools**
+- 🔭 Currently working on **end-to-end Azure and Microsoft Fabric data engineering projects**
+- 🌱 Learning **Microsoft Fabric, Delta Lake, and advanced Spark optimization**
+- 💼 Focused on **Medallion Architecture, Data Lakehouse, and Real-time Streaming with Azure**
+- 🎯 2025 Goals: Master **Azure Data Engineer certification (DP-203)** and **Microsoft Fabric**
 - 📫 Reach me at: **[your.email@example.com](mailto:your.email@example.com)**
-- 💬 Ask me about **Azure, Databricks, PySpark, SQL, and Data Modeling**
+- 💬 Ask me about **Azure, Microsoft Fabric, Databricks, PySpark, SQL Server, and Power BI**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Cloud Platforms
+### Cloud Platforms & Services
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-### Data Engineering
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-00BCF2?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-### Databases & Storage
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### Big Data & Processing
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+
+### Databases
+![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
-### Programming Languages
+### Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Tools & Technologies
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Data Visualization & BI
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
@@ -64,49 +54,52 @@ I'm a passionate Data Engineer specializing in designing and building robust, sc
 ### 🎧 [Spotify Azure Data Engineering Platform](https://github.com/yourusername/spotify-azure-data-engineering)
 > End-to-end modern data platform with Medallion Architecture, streaming, and CI/CD
 
-**Tech Stack:** Azure Data Factory | Databricks | PySpark | Delta Lake | Unity Catalog | SQL Server
+**Tech Stack:** Azure Data Factory | Databricks | PySpark | Delta Lake | MS SQL Server | Power BI
 
 **Key Features:**
 - Implemented Medallion Architecture (Bronze, Silver, Gold layers)
 - Built SCD Type 2 for historical dimension tracking
 - Real-time streaming with Spark Structured Streaming & Auto Loader
 - CI/CD pipeline using Databricks Asset Bundles
-- Enterprise governance with Unity Catalog
+- Interactive dashboards with Power BI
 
 ---
 
-### 🏪 [Real-time E-commerce Analytics Pipeline](https://github.com/yourusername/ecommerce-streaming-pipeline)
-> Scalable streaming pipeline for processing millions of e-commerce events
+### 📊 [Microsoft Fabric Data Analytics Solution](https://github.com/yourusername/fabric-analytics-platform)
+> Modern data lakehouse implementation using Microsoft Fabric
 
-**Tech Stack:** Apache Kafka | Spark Streaming | AWS S3 | Redshift | Airflow
+**Tech Stack:** Microsoft Fabric | PySpark | SQL | Power BI | Azure Data Factory
 
 **Key Features:**
-- Real-time event processing with sub-second latency
-- Lambda architecture for batch and streaming
-- Data quality framework with Great Expectations
-- Automated monitoring and alerting
+- End-to-end data lakehouse with Fabric OneLake
+- Real-time data pipelines with Data Factory
+- Advanced analytics with Spark notebooks
+- Enterprise reporting with Power BI Premium
+- Data governance and security implementation
 
 ---
 
-### 📈 [COVID-19 Data Lake & Analytics](https://github.com/yourusername/covid-data-analytics)
-> Comprehensive data lake solution for COVID-19 global statistics
+### 🏪 [E-commerce Real-time Analytics](https://github.com/yourusername/ecommerce-analytics-pipeline)
+> Scalable data pipeline for processing e-commerce transactions
 
-**Tech Stack:** AWS Glue | Athena | S3 | Lambda | QuickSight
+**Tech Stack:** Azure Data Factory | Databricks | MS SQL Server | Python | Pandas | Docker
 
 **Key Features:**
-- Automated data ingestion from multiple APIs
-- Serverless ETL with AWS Glue
-- Interactive dashboards for trend analysis
-- Cost-optimized data partitioning strategy
+- Automated ETL pipelines with ADF
+- Data quality framework with Python
+- Containerized deployment with Docker
+- Performance optimization with indexing strategies
+- Interactive dashboards for business insights
 
 ---
 
 ## 📜 Certifications & Learning
 
 - 🏅 **Microsoft Certified: Azure Data Engineer Associate** (DP-203) - *In Progress*
+- 🏅 **Microsoft Certified: Fabric Analytics Engineer Associate** (DP-600) - *Planned 2025*
 - 🏅 **Databricks Certified Data Engineer Associate** - *Planned 2025*
-- 📚 **Coursera: Data Engineering Professional Certificate** - *Completed*
-- 📚 **AWS Big Data Specialty** - *Studying*
+- 📚 **Microsoft Azure Fundamentals** (AZ-900) - *Completed*
+- 📚 **Power BI Data Analyst Associate** (PL-300) - *Studying*
 
 ---
 
@@ -127,10 +120,11 @@ I'm a passionate Data Engineer specializing in designing and building robust, sc
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Microsoft Fabric: A Comprehensive Guide](https://yourblog.com/microsoft-fabric-guide)
 - [Building a Medallion Architecture on Azure: Best Practices](https://yourblog.com/medallion-architecture)
-- [Slowly Changing Dimensions (SCD Type 2) Explained with Examples](https://yourblog.com/scd-type-2)
-- [Optimizing Spark Jobs: 10 Tips for Better Performance](https://yourblog.com/spark-optimization)
-- [Delta Lake vs Parquet: When to Use What?](https://yourblog.com/delta-vs-parquet)
+- [Slowly Changing Dimensions (SCD Type 2) in Databricks](https://yourblog.com/scd-type-2)
+- [Optimizing Spark Jobs on Azure: Performance Tips](https://yourblog.com/spark-optimization)
+- [Power BI vs Traditional BI: Modern Analytics Approach](https://yourblog.com/powerbi-modern-analytics)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more on my blog](https://yourblog.com)
@@ -171,3 +165,5 @@ I'm a passionate Data Engineer specializing in designing and building robust, sc
 *"Data is the new oil, but insights are the fuel."*
 
 </div>
+
+
