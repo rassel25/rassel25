@@ -50,7 +50,7 @@ I'm a passionate Data Engineer specializing in designing and building robust, sc
 - 🏅 **Microsoft Certified: Fabric Data Engineer Associate** (DP-700) - *In Progress*
 - 🏅 **Microsoft Certified: Fabric Analytics Engineer Associate** (DP-600) - *Planned 2026*
 - 🏅 **Databricks Certified Data Engineer Associate** - *Planned 2026*
-- 📚 **Power BI Data Analyst Associate** (PL-300) - *Planned 2026*
+- 📚 **Power BI Data Analyst Associate** (PL-300)
 
 ---
 
