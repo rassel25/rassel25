@@ -48,7 +48,7 @@ I'm a passionate Data Engineer specializing in designing and building robust, sc
 ## 📜 Certifications
 
 ### ✅ Achieved
-[![PL-300](<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/2a115937-cfd9-45c2-9da7-00657e846f64" />)](https://learn.microsoft.com/api/credentials/share/en-us/MdGolamRasselLincoln-3204/521B430EA19D7EA4?sharingId=C66A562174449179)
+[![PL-300](https://www.google.com/imgres?q=pl%20300%20icon%20download&imgurl=https%3A%2F%2Fstorage.googleapis.com%2Fsm-artworks%2Ff3df9dfe-8089-451b-a1d0-a14633e616ed%2Fproof_retina_3x.png%3FcacheFor%3Db9bb8c409a9cf0e58f54fa2fcf3f75ce&imgrefurl=https%3A%2F%2Fwww.stickermule.com%2Fde%2Fbc61906eb24e29e%2Fitem%2F12936818&docid=xSndvf839g4QrM&tbnid=zBtaVHMaNiTScM&vet=12ahUKEwiY-dS_rteTAxWVBdsEHWvZPMYQnPAOegQIGBAB..i&w=1314&h=1356&hcb=2&ved=2ahUKEwiY-dS_rteTAxWVBdsEHWvZPMYQnPAOegQIGBAB)](https://learn.microsoft.com/api/credentials/share/en-us/MdGolamRasselLincoln-3204/521B430EA19D7EA4?sharingId=C66A562174449179)
 
 ### 🔄 In Progress / Planned
 - 🔵 **Microsoft Certified: Fabric Data Engineer Associate** (DP-700) — *In Progress*
